@@ -1,0 +1,27 @@
+body {
+    margin: 0px auto;
+}
+
+.login-form-group {
+    margin: 10px 0 5px 0;
+}
+
+.input-group {
+    margin: 0 auto;
+    float: none;
+}
+
+.login-form-submit {
+    margin: 10px 0 20px 0;
+}
+
+.login.jumbotron {
+    background: none;
+    margin: 10px 0 2.8rem 0;
+    padding: 0;
+}
+
+.forget-pass {
+    margin: 5px 0 5px 0;
+    font-size: 0.7em;
+}
