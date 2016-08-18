@@ -63,11 +63,26 @@ function getBook()
         while ($rowBook = $runBook->fetch_assoc())
         {
 
-            $book_id = $rowBook['book_id '];
+            $book_id = $rowBook['book_id'];
             $book_title = $rowBook['book_title'];
             $book_author = $rowBook['book_author'];
+            $book_publication = $rowBook['book_publication'];
+            $book_date_release = $rowBook['book_date_release'];
+            $book_price = $rowBook['book_price'];
+            $book_image = $rowBook['book_image'];
+            $book_desc = $rowBook['book_desc'];
+            $book_isbn = $rowBook['book_isbn'];
 
-            echo "<option value='$publication_id'>$publication_name</option>";
+            echo "
+
+                <div id='single_book'>
+                    <h3>$book_title</h3>
+                    
+                    <img src='../product_images/$book_image' width='180' height='260'/>
+                    
+                </div>
+               
+                ";
 
         }
     }

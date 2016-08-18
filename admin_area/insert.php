@@ -52,7 +52,6 @@ require_once('../core/connect.php');
                             $runPublication = $conn->query($getPublication);
 
                             if ($runPublication->num_rows > 0) {
-                                while ($rowPublication = $runPublication->fetch_assoc()) {
 
                                     $publication_id = $rowPublication['publication_id '];
                                     $publication_name = $rowPublication['publication_name'];

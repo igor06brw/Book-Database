@@ -2,18 +2,151 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c18d8333-f076-4e8d-a7c5-48eaf74c3063" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Admin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/admin_area/includes/db.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/LICENSE.TXT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/jquery.tinymce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/langs/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/code/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/codesample/css/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/example/dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/example/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/example_dependency/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/image/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/layer/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/link/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/media/moxieplayer.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/media/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/print/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/save/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/table/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/template/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/skin.ie7.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/atomic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-atomic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-prod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/prod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/dent/depend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/compile/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/compile/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/inline/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/inline/theme.raw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/demo/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/demo/html/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/demo/js/tinymce/inlite/Demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/Theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Bookmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Unlink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Uuid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/ElementMatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Matcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Measure.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/PredicateId.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SelectionMatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SkinLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/UrlType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Conversions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Forms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Panel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Toolbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/alien/ArrTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/alien/UuidTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/core/ConvertTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/core/MatcherTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/core/UrlTypeTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/ThemeTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/alien/BookmarkTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/alien/UnlinkTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/ActionsTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/ElementMatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/LayoutTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/MeasureTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/PredicateIdTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/SelectionMatcherTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/file/ConversionsTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/file/SelectionMatcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/modern/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/tinymce.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin_area/insert.php" afterPath="$PROJECT_DIR$/admin_area/insert.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/connect.php" afterPath="$PROJECT_DIR$/core/connect.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/functions.php" afterPath="$PROJECT_DIR$/functions/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/front/footer.php" afterPath="$PROJECT_DIR$/template/front/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/front/header.php" afterPath="$PROJECT_DIR$/template/front/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/core/checkout.php" afterPath="$PROJECT_DIR$/admin_area/navigator.php" />
     </list>
     <ignored path="projekt_wsb_db.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,14 +189,14 @@
       <file leaf-file-name="insert.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="62" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+            <state relative-caret-position="76">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
-                <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-                <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-                <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-                <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-                <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+                <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+                <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+                <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+                <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+                <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
               </folding>
             </state>
           </provider>
@@ -72,13 +205,15 @@
       <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            <state relative-caret-position="394">
+              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
               <folding>
-                <marker date="1471490548172" expanded="true" signature="184:204" ph="SELECT * FRO... author" />
-                <marker date="1471490548172" expanded="true" signature="551:576" ph="SELECT * FRO... publication" />
-                <marker date="1471490548172" expanded="true" signature="1047:1061" ph="SELECT * FRO... publication" />
-                <marker date="1471490548172" expanded="true" signature="1047:1065" ph="SELECT * FRO... book" />
+                <marker date="1471529973556" expanded="true" signature="184:204" ph="SELECT * FRO... author" />
+                <marker date="1471529973556" expanded="true" signature="551:576" ph="SELECT * FRO... publication" />
+                <marker date="1471529973556" expanded="true" signature="1047:1061" ph="SELECT * FRO... publication" />
+                <marker date="1471529973556" expanded="true" signature="1047:1065" ph="SELECT * FRO... book" />
+                <marker date="1471529973556" expanded="true" signature="1760:1962" ph="..." />
+                <marker date="1471529973556" expanded="true" signature="1760:1991" ph="..." />
               </folding>
             </state>
           </provider>
@@ -180,9 +315,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="676" />
     <option name="y" value="40" />
-    <option name="width" value="1369" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -248,94 +383,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functions" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,7 +490,7 @@
       <workItem from="1470838793015" duration="6561000" />
       <workItem from="1470903764995" duration="1499000" />
       <workItem from="1470938040794" duration="2269000" />
-      <workItem from="1471282669802" duration="18143000" />
+      <workItem from="1471282669802" duration="22258000" />
     </task>
     <task id="LOCAL-00001" summary="09.08.2016 - UPDATE &#10;***************************&#10;::ADD BOOTSTRAP &amp; JQUERY&#10;::MAKE LOGIN PANEL&#10;::EDIT CSS FILE">
       <created>1470724468983</created>
@@ -456,7 +503,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58059000" />
+    <option name="totallyTimeSpent" value="62174000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,10 +515,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="40" width="1369" height="735" extended-state="0" />
+    <frame x="676" y="40" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28385615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28346458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -537,11 +584,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-            <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-            <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
           </folding>
         </state>
       </provider>
@@ -567,11 +614,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-            <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-            <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
           </folding>
         </state>
       </provider>
@@ -624,11 +671,11 @@
         <state relative-caret-position="119">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-            <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-            <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
           </folding>
         </state>
       </provider>
@@ -681,11 +728,11 @@
         <state relative-caret-position="119">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-            <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-            <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
           </folding>
         </state>
       </provider>
@@ -709,11 +756,11 @@
         <state relative-caret-position="119">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
-            <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-            <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-            <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
           </folding>
         </state>
       </provider>
@@ -903,27 +950,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="62" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        <state relative-caret-position="76">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
-            <marker date="1471489845290" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471489845290" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471489845290" expanded="true" signature="4074:4268" ph="INSERT INTO `book`... " />
-            <marker date="1471489845290" expanded="true" signature="4183:4267" ph="INSERT INTO " />
-            <marker date="1471489845290" expanded="true" signature="4183:4268" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
+            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
+            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
+            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
+            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/functions/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        <state relative-caret-position="394">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
           <folding>
-            <marker date="1471490548172" expanded="true" signature="184:204" ph="SELECT * FRO... author" />
-            <marker date="1471490548172" expanded="true" signature="551:576" ph="SELECT * FRO... publication" />
-            <marker date="1471490548172" expanded="true" signature="1047:1061" ph="SELECT * FRO... publication" />
-            <marker date="1471490548172" expanded="true" signature="1047:1065" ph="SELECT * FRO... book" />
+            <marker date="1471529973556" expanded="true" signature="184:204" ph="SELECT * FRO... author" />
+            <marker date="1471529973556" expanded="true" signature="551:576" ph="SELECT * FRO... publication" />
+            <marker date="1471529973556" expanded="true" signature="1047:1061" ph="SELECT * FRO... publication" />
+            <marker date="1471529973556" expanded="true" signature="1047:1065" ph="SELECT * FRO... book" />
+            <marker date="1471529973556" expanded="true" signature="1760:1962" ph="..." />
+            <marker date="1471529973556" expanded="true" signature="1760:1991" ph="..." />
           </folding>
         </state>
       </provider>
