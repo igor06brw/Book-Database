@@ -2,151 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c18d8333-f076-4e8d-a7c5-48eaf74c3063" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/LICENSE.TXT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/jquery.tinymce.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/langs/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/code/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/codesample/css/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/example/dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/example/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/example_dependency/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/image/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/layer/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/link/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/media/moxieplayer.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/media/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/print/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/save/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/table/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/template/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/skin.ie7.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/atomic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-atomic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/bootstrap-prod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/bolt/prod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/config/dent/depend.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/compile/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/compile/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/inline/theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/scratch/inline/theme.raw.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/demo/css/demo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/demo/html/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/demo/js/tinymce/inlite/Demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/Theme.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Arr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Bookmark.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Unlink.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/alien/Uuid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Convert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/ElementMatcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Layout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Matcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/Measure.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/PredicateId.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SelectionMatcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/SkinLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/core/UrlType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Conversions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/file/Picker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Buttons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Forms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Panel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Toolbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/alien/ArrTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/alien/UuidTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/core/ConvertTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/core/MatcherTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/atomic/core/UrlTypeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/ThemeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/alien/BookmarkTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/alien/UnlinkTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/ActionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/ElementMatcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/LayoutTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/MeasureTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/PredicateIdTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/core/SelectionMatcherTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/file/ConversionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/src/test/js/browser/file/SelectionMatcher.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/inlite/theme.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/themes/modern/theme.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/addons/tinymce/js/tinymce/tinymce.min.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/update.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/functions/functions.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin_area/insert.php" afterPath="$PROJECT_DIR$/admin_area/insert.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions/functions.php" afterPath="$PROJECT_DIR$/functions/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/connect.php" afterPath="$PROJECT_DIR$/core/connect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin_area/insert.php" afterPath="$PROJECT_DIR$/insert.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/admin_area/navigator.php" afterPath="$PROJECT_DIR$/navigator.php" />
     </list>
     <ignored path="projekt_wsb_db.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,33 +52,109 @@
         </entry>
       </file>
       <file leaf-file-name="insert.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
+        <entry file="file://$PROJECT_DIR$/insert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="-712">
+              <caret line="65" column="33" selection-start-line="50" selection-start-column="32" selection-end-line="65" selection-end-column="33" />
               <folding>
-                <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-                <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-                <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-                <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-                <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
+                <marker date="1471867929850" expanded="true" signature="2065:2090" ph="SELECT * FRO... publication" />
+                <marker date="1471867929850" expanded="true" signature="2907:2998" ph="..." />
+                <marker date="1471867929850" expanded="true" signature="3135:3224" ph="..." />
+                <marker date="1471867929850" expanded="true" signature="3365:3460" ph="..." />
+                <marker date="1471867929850" expanded="true" signature="3561:3648" ph="..." />
+                <marker date="1471867929850" expanded="true" signature="3768:3857" ph="..." />
+                <marker date="1471867929850" expanded="true" signature="3980:4017" ph="..." />
+                <marker date="1471867929850" expanded="true" signature="4936:5212" ph="INSERT INTO `book`... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <file leaf-file-name="delete.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delete.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+            <state relative-caret-position="112">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <marker date="1471529973556" expanded="true" signature="184:204" ph="SELECT * FRO... author" />
-                <marker date="1471529973556" expanded="true" signature="551:576" ph="SELECT * FRO... publication" />
-                <marker date="1471529973556" expanded="true" signature="1047:1061" ph="SELECT * FRO... publication" />
-                <marker date="1471529973556" expanded="true" signature="1047:1065" ph="SELECT * FRO... book" />
-                <marker date="1471529973556" expanded="true" signature="1760:1962" ph="..." />
-                <marker date="1471529973556" expanded="true" signature="1760:1991" ph="..." />
+                <element signature="e#6#87#0#PHP" expanded="true" />
+                <marker date="1471813753156" expanded="true" signature="135:179" ph="DELETE FROM " />
+                <marker date="1471813753156" expanded="true" signature="135:180" ph="DELETE FROM " />
+                <marker date="1471813753156" expanded="true" signature="135:181" ph="DELETE FROM " />
+                <marker date="1471813753156" expanded="true" signature="135:189" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/update.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
+              <folding>
+                <marker date="1471874205078" expanded="true" signature="229:273" ph="SELECT * FRO... book" />
+                <marker date="1471874205078" expanded="true" signature="838:1438" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="845:1438" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1224:1333" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1343:1436" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1657:1677" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1703:4412" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1778:4405" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1794:4393" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1811:1878" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="1895:2095" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="2112:2178" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="2112:2305" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="2322:3304" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="2389:3286" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="2442:3281" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="2591:2616" ph="SELECT * FRO... publication" />
+                <marker date="1471874205078" expanded="true" signature="3321:3396" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3321:3532" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3549:3622" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3549:3721" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3738:3817" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3738:3884" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3901:3972" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="3901:4059" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="4076:4149" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="4076:4238" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="4256:4285" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="4256:4376" ph="..." />
+                <marker date="1471874205078" expanded="true" signature="5139:5429" ph="UPDATE book " />
+                <marker date="1471874205078" expanded="true" signature="5432:5483" ph="UPDATE `book... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/navigator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <folding>
+                <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -222,44 +163,14 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navigator.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin_area/navigator.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="-138">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
               <folding>
-                <element signature="e#6#87#0#PHP" expanded="true" />
+                <marker date="1471871074683" expanded="true" signature="1080:1301" ph="..." />
+                <marker date="1471871074683" expanded="true" signature="1108:1126" ph="SELECT * FRO... book" />
+                <marker date="1471871074683" expanded="true" signature="1794:2675" ph="..." />
+                <marker date="1471871074683" expanded="true" signature="2141:2294" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/front/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-              <folding>
-                <element signature="e#6#87#0#PHP" expanded="true" />
-                <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/connect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -270,6 +181,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -291,16 +203,21 @@
         <option value="$PROJECT_DIR$/functions/connect.php" />
         <option value="$PROJECT_DIR$/template/front/head.php" />
         <option value="$PROJECT_DIR$/connect.php" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/template/front/header.php" />
-        <option value="$PROJECT_DIR$/admin_area/navigator.php" />
         <option value="$PROJECT_DIR$/template/front/footer.php" />
-        <option value="$PROJECT_DIR$/core/connect.php" />
         <option value="$PROJECT_DIR$/core/checkout.php" />
         <option value="$PROJECT_DIR$/core/login.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin_area/navigator.php" />
+        <option value="$PROJECT_DIR$/functions/functions.js" />
         <option value="$PROJECT_DIR$/admin_area/insert.php" />
+        <option value="$PROJECT_DIR$/core/connect.php" />
+        <option value="$PROJECT_DIR$/delete.php" />
+        <option value="$PROJECT_DIR$/navigator.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/functions/functions.php" />
+        <option value="$PROJECT_DIR$/insert.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/update.php" />
       </list>
     </option>
   </component>
@@ -315,10 +232,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
+    <option name="x" value="-7" />
     <option name="y" value="40" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="width" value="1366" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -367,6 +284,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -386,23 +304,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projekt_wsb_db" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin_area" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,8 +318,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\web\projekt_wsb_db\core" />
       <recent name="E:\web\projekt_wsb_db" />
+      <recent name="E:\web\projekt_wsb_db\core" />
     </key>
   </component>
   <component name="RunManager">
@@ -490,7 +393,12 @@
       <workItem from="1470838793015" duration="6561000" />
       <workItem from="1470903764995" duration="1499000" />
       <workItem from="1470938040794" duration="2269000" />
-      <workItem from="1471282669802" duration="22258000" />
+      <workItem from="1471282669802" duration="28894000" />
+      <workItem from="1471611905655" duration="4472000" />
+      <workItem from="1471706309902" duration="9953000" />
+      <workItem from="1471740640208" duration="4077000" />
+      <workItem from="1471772492014" duration="32565000" />
+      <workItem from="1471816974642" duration="16541000" />
     </task>
     <task id="LOCAL-00001" summary="09.08.2016 - UPDATE &#10;***************************&#10;::ADD BOOTSTRAP &amp; JQUERY&#10;::MAKE LOGIN PANEL&#10;::EDIT CSS FILE">
       <created>1470724468983</created>
@@ -503,7 +411,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62174000" />
+    <option name="totallyTimeSpent" value="136418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -515,16 +423,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="40" width="697" height="735" extended-state="0" />
+    <frame x="-7" y="40" width="1366" height="731" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28346458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19095092" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -537,26 +445,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28385615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -575,54 +463,18 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/insert.php</url>
+          <line>49</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/front/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/connect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -631,20 +483,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/checkout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/checkout.php" />
+    <entry file="file://$PROJECT_DIR$/core/login.php" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -666,16 +506,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
+    <entry file="file://$PROJECT_DIR$/insert.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
+            <marker date="1471867929850" expanded="true" signature="2065:2090" ph="SELECT * FRO... publication" />
+            <marker date="1471867929850" expanded="true" signature="2907:2998" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3135:3224" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3365:3460" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3561:3648" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3768:3857" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3980:4017" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="4936:5212" ph="INSERT INTO `book`... " />
           </folding>
         </state>
       </provider>
@@ -688,20 +531,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/checkout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/checkout.php" />
+    <entry file="file://$PROJECT_DIR$/core/login.php" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -723,27 +554,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
+    <entry file="file://$PROJECT_DIR$/insert.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
           <folding>
-            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
+            <marker date="1471867929850" expanded="true" signature="2065:2090" ph="SELECT * FRO... publication" />
+            <marker date="1471867929850" expanded="true" signature="2907:2998" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3135:3224" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3365:3460" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3561:3648" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3768:3857" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3980:4017" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="4936:5212" ph="INSERT INTO `book`... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/login.php" />
     <entry file="file://$PROJECT_DIR$/template/front/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -751,16 +579,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
+    <entry file="file://$PROJECT_DIR$/insert.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
-            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
+            <marker date="1471867929850" expanded="true" signature="2065:2090" ph="SELECT * FRO... publication" />
+            <marker date="1471867929850" expanded="true" signature="2907:2998" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3135:3224" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3365:3460" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3561:3648" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3768:3857" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3980:4017" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="4936:5212" ph="INSERT INTO `book`... " />
           </folding>
         </state>
       </provider>
@@ -780,13 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="38" column="96" selection-start-line="38" selection-start-column="96" selection-end-line="38" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/login.php" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -856,21 +681,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/core/checkout.php" />
+    <entry file="file://$PROJECT_DIR$/core/login.php" />
+    <entry file="file://$PROJECT_DIR$/customer/customer_register.php" />
+    <entry file="file://$PROJECT_DIR$/admin_area/includes/db.php" />
+    <entry file="file://$PROJECT_DIR$/addons/tinymce/js/tinymce/tinymce.min.js" />
+    <entry file="file://$PROJECT_DIR$/template/front/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="64">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/front/footer.php">
+    <entry file="file://$PROJECT_DIR$/core/connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="256">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="66" column="46" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -882,97 +742,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/navigator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding>
-            <element signature="e#6#87#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/checkout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customer/customer_register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/connect.php">
+    <entry file="file://$PROJECT_DIR$/delete.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/includes/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addons/tinymce/js/tinymce/tinymce.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+            <marker date="1471813753156" expanded="true" signature="135:179" ph="DELETE FROM " />
+            <marker date="1471813753156" expanded="true" signature="135:180" ph="DELETE FROM " />
+            <marker date="1471813753156" expanded="true" signature="135:181" ph="DELETE FROM " />
+            <marker date="1471813753156" expanded="true" signature="135:189" ph="DELETE FROM " />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_area/insert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="-138">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding>
-            <marker date="1471520001742" expanded="true" signature="2013:2027" ph="SELECT * FRO... brands" />
-            <marker date="1471520001742" expanded="true" signature="2013:2038" ph="SELECT * FRO... publication" />
-            <marker date="1471520001742" expanded="true" signature="3983:4177" ph="INSERT INTO `book`... " />
-            <marker date="1471520001742" expanded="true" signature="4092:4176" ph="INSERT INTO " />
-            <marker date="1471520001742" expanded="true" signature="4092:4177" ph="INSERT INTO " />
+            <marker date="1471871074683" expanded="true" signature="1080:1301" ph="..." />
+            <marker date="1471871074683" expanded="true" signature="1108:1126" ph="SELECT * FRO... book" />
+            <marker date="1471871074683" expanded="true" signature="1794:2675" ph="..." />
+            <marker date="1471871074683" expanded="true" signature="2141:2294" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions/functions.php">
+    <entry file="file://$PROJECT_DIR$/insert.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        <state relative-caret-position="-712">
+          <caret line="65" column="33" selection-start-line="50" selection-start-column="32" selection-end-line="65" selection-end-column="33" />
           <folding>
-            <marker date="1471529973556" expanded="true" signature="184:204" ph="SELECT * FRO... author" />
-            <marker date="1471529973556" expanded="true" signature="551:576" ph="SELECT * FRO... publication" />
-            <marker date="1471529973556" expanded="true" signature="1047:1061" ph="SELECT * FRO... publication" />
-            <marker date="1471529973556" expanded="true" signature="1047:1065" ph="SELECT * FRO... book" />
-            <marker date="1471529973556" expanded="true" signature="1760:1962" ph="..." />
-            <marker date="1471529973556" expanded="true" signature="1760:1991" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="2065:2090" ph="SELECT * FRO... publication" />
+            <marker date="1471867929850" expanded="true" signature="2907:2998" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3135:3224" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3365:3460" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3561:3648" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3768:3857" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="3980:4017" ph="..." />
+            <marker date="1471867929850" expanded="true" signature="4936:5212" ph="INSERT INTO `book`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
+          <folding>
+            <marker date="1471874205078" expanded="true" signature="229:273" ph="SELECT * FRO... book" />
+            <marker date="1471874205078" expanded="true" signature="838:1438" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="845:1438" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1224:1333" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1343:1436" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1657:1677" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1703:4412" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1778:4405" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1794:4393" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1811:1878" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="1895:2095" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="2112:2178" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="2112:2305" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="2322:3304" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="2389:3286" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="2442:3281" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="2591:2616" ph="SELECT * FRO... publication" />
+            <marker date="1471874205078" expanded="true" signature="3321:3396" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3321:3532" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3549:3622" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3549:3721" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3738:3817" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3738:3884" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3901:3972" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="3901:4059" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="4076:4149" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="4076:4238" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="4256:4285" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="4256:4376" ph="..." />
+            <marker date="1471874205078" expanded="true" signature="5139:5429" ph="UPDATE book " />
+            <marker date="1471874205078" expanded="true" signature="5432:5483" ph="UPDATE `book... " />
           </folding>
         </state>
       </provider>

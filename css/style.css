@@ -1,27 +1,69 @@
 body {
-    margin: 0px auto;
+    margin: auto;
 }
 
-.login-form-group {
-    margin: 10px 0 5px 0;
-}
-
-.input-group {
-    margin: 0 auto;
+table {
+    margin: auto 0;
     float: none;
 }
 
-.login-form-submit {
-    margin: 10px 0 20px 0;
+form {
+    display: inline-block;
+}
+tr {
+    margin: auto;
+    float: none;
+}
+#single_product {
+    margin: 5px;
+    width: 30%;
+    display: inline-block;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5%;
+    min-width: 30%;
+    max-width: 20%;
 }
 
-.login.jumbotron {
-    background: none;
-    margin: 10px 0 2.8rem 0;
-    padding: 0;
+#single_product h2 {
 }
 
-.forget-pass {
-    margin: 5px 0 5px 0;
-    font-size: 0.7em;
+#single_product img {
+    width: 40%;
+    height: auto;
+    border-radius: 2px 2px 10px 10px;
+    -webkit-box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.75);
 }
+
+#single_product #author {
+    font-size: medium;
+}
+#single_product #desc {
+    color: #1b6d85;
+}
+#single_product #desc p {
+    margin: auto;
+    padding: auto;
+
+}
+#edit {
+    margin: 10px 5%;
+    float: right;
+}
+#danger {
+    margin: 10px 0;
+    float: right;
+}
+
+#price {
+    margin: 20px 10%;
+    float:left;
+}
+
+#nav {
+    -webkit-box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.3);
+}
+
