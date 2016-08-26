@@ -1,7 +1,6 @@
 <?php // MAKED FOR COMMENT THE HTML SYNTAX\
 
 include ('core/connect.php');
-include('navigator.php')
 ?>
 <!DOCTYPE html>
 <html lang="pl-PL">
@@ -16,12 +15,13 @@ include('navigator.php')
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
     <script src="functions/functions.js"></script>
 </head>
 <body>
 <div>
     <?php
+    include('navigator.php');
         if(isset($_GET['update'])){
         include("update.php");
         }
@@ -53,8 +53,6 @@ include('navigator.php')
 
             ?>
                 <div id='single_product'>
-                
-                    
                     <img src='images/<?php echo $book_image ?>' width='140' height='180' />
                     <h2><em><?php echo $book_title ?></em></h2>
                     
@@ -63,8 +61,7 @@ include('navigator.php')
                         <p><em><strong>Description:</strong></em></p>
                         <p><?php echo $book_desc ?></p>
                     </div>
-                    <a href='../projekt_wsb_db/index.php?update=<?php echo $book_id ?>' class='btn btn-primary' id='edit'>Edit</a>
-                    <a href='../projekt_wsb_db/index.php?delete=<?php echo $book_id ?>' class='btn btn-danger' id='danger' >Delete</a>
+                    <a href='../projekt_wsb_db/update.php?edit_id=<?php echo $book_id ?>' class='btn btn-primary' id='edit' alt='edit'>Edit</a>
                     <p id='price'>Price: <strong><?php echo $book_price ?></strong> PLN</p>
                 </div>
       <?php  }

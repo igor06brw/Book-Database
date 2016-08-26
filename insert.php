@@ -29,12 +29,16 @@ include('core/connect.php');
     <?php
     include_once('navigator.php');
     ?>
-        <div>
+        <div class="container">
             <form action="insert.php" method="POST" enctype="multipart/form-data">
                 <table>
                     <tr>
                         <td><h2>Insert Product</h2></td>
                     </tr>
+                    <tr>
+                        <td><input type='hidden' name='book_id'></td>
+                    </tr>
+
                     <tr>
                         <td>Book Title:</td>
                         <td><input type="text" class="form-control" placeholder="Book Title" name="book_title" /></td>
@@ -69,11 +73,11 @@ include('core/connect.php');
                     </tr>
                     <tr>
                         <td>Date od Release:</td>
-                        <td><input type="date" class="form-control" placeholder="Date" name="book_date_release" required></td>
+                        <td><input type="date" class="form-control" placeholder="Date" name="book_date_release"></td>
                     </tr>
                     <tr>
                         <td>Image of Book:</td>
-                        <td><input type="file" class="fileinput fileinput-new" data-icon="false" name="book_image" required/></td>
+                        <td><input type="file" class="fileinput fileinput-new" data-icon="false" name="book_image"/></td>
                     </tr>
                     <tr>
                         <td>Book Description:</td>
